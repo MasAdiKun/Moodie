@@ -1,13 +1,13 @@
 # Moodie
 
-Moodie is a chatbot application designed to provide empathetic and supportive responses based on your conversations. Using machine learning technology, MoodBot can understand emotions and respond appropriately.
+Moodie is a straightforward chatbot that responds to queries based on its learned knowledge.
 
 ## How to Use
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/username/moodbot.git
+git clone https://github.com/MasAdiKun/moodbot.git
 ```
 
 ### 2. Install Dependencies
@@ -22,6 +22,8 @@ pip install -r requirements.txt
 ```bash
 python moodbot.py
 ```
+### 4. Open the Index.html
+Open the index.html to interact with Moodie from the simple interface.
 
 ### Additional Notes
 
